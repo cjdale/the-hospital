@@ -1,0 +1,17 @@
+/*This is the stylesheet I am currently using for the index.html and splash.html files.*/
+
+div {
+  display: inline-block;
+  border-radius: 5px;
+  background-color: pink;
+  color: black;
+  border: 1px dotted black;
+  font-family: Futura, sans-serif;
+  text-align: center;
+  float: center;
+  
+}
+
+p {
+
+}
